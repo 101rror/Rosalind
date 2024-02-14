@@ -4,7 +4,7 @@
 
 <p>Given a <a href="https://rosalind.info/glossary/dna-string/">DNA string</a> t corresponding to a coding strand, its transcribed <a href="https://rosalind.info/glossary/rna-string/">RNA string</a> u is formed by replacing all occurrences of 'T' in t with 'U' in u. </p>
 
-<p><strong>Given :</strong> A <a href="https://rosalind.info/glossary/dna-string/">DNA string</a> t having <a href="https://rosalind.info/glossary/string-length/">length</a> at most 1000 nt.</p>
+<p><strong>Given :</strong> A <a href="https://rosalind.info/glossary/dna-string/">DNA string</a> t having <a href="https://rosalind.info/glossary/string-length/">length</a> at most 1000 <a href="https://rosalind.info/glossary/nucleotide/">nt.</a></p>
 <p><strong>Return : </strong> The transcribed RNA string of t.</p>
 
 
