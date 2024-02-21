@@ -12,9 +12,9 @@
 <p>&nbsp;</p>
 <p><strong class="example">Sample Dataset</strong></p>
 <pre>
-AAAACCCGGT
+<strong>AAAACCCGGT</strong>
 </pre>
 <p><strong class="example">Sample Output</strong></p>
 <pre>
-ACCGGGTTTT
+<strong>ACCGGGTTTT</strong>
 </pre>
