@@ -11,9 +11,9 @@
 <p>&nbsp;</p>
 <p><strong class="example">Sample Dataset</strong></p>
 <pre>
-AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC
+<strong>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC</strong>
 </pre>
 <p><strong class="example">Sample Output</strong></p>
 <pre>
-20 12 17 21
+<strong>20 12 17 21</strong>
 </pre>
