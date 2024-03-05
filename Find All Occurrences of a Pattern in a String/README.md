@@ -1,4 +1,3 @@
-
 <h2><a href="https://rosalind.info/problems/ba1d/">Find All Occurrences of a Pattern in a String</a></h2>
 
 <p>In this problem, we ask a simple question: how many times can one <a href="https://rosalind.info/glossary/string/">string</a> occur as a <a href="https://rosalind.info/glossary/substring/">substring</a> of another? Recall from <a href="https://rosalind.info/problems/ba1b/">“Find the Most Frequent Words in a String”</a> that different occurrences of a substring can overlap with each other. For example, <strong>ATA</strong> occurs three times in <strong>CGATATATCCATAG.</strong></p>
