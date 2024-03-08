@@ -9,7 +9,6 @@
 <p><strong>Return : </strong> All starting positions in Genome where Pattern appears as a substring. Use <a href="https://rosalind.info/glossary/0-based-numbering/">0-based indexing.</a></p>
 
 
-
 <p>&nbsp;</p>
 <p><strong class="example">Sample Dataset</strong></p>
 <pre>
