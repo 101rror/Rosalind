@@ -11,7 +11,6 @@
 <p><strong>Return : </strong> All integer(s) i minimizing Skew(Prefixi (Text)) over all values of i (from 0 to |Genome|).</p>
 
 
-
 <p>&nbsp;</p>
 <p><strong class="example">Sample Dataset</strong></p>
 <pre>
