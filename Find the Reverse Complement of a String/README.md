@@ -11,7 +11,7 @@
 <p><i>Find the reverse complement of a DNA string</i>.</p>
 
 <ol>
-<p><strong>Given : </strong> A <a href="https://rosalind.info/glossary/dna-string/">DNA string</a> <i>Pattern</i>.</p>
+<p><strong>Given : </strong> A <a href="https://rosalind.info/glossary/dna-string/">DNA string</a> <strong><i>Pattern</i></strong>.</p>
 <p><strong>Return : </strong><i>Pattern*</i>, the reverse complement of <i>Pattern</i>.</p>
 </ol>
 
