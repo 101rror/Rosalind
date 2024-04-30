@@ -7,7 +7,7 @@
 <p>0 -1 -1 -1 0 1 2 1 1 1 0 1 2 1 0 0 0 0 -1 0 -1 -2</p>
 
 <p><strong class="example">Minimum Skew Problem</strong></p>
-<p>Find a position in a genome minimizing the skew.</p>
+<p><i>Find a position in a genome minimizing the skew.</i></p>
 
 <p><strong>Given : </strong> A DNA string Genome.</p>
 <p><strong>Return : </strong> All integer(s) i minimizing Skew(Prefixi (Text)) over all values of i (from 0 to |Genome|).</p>
