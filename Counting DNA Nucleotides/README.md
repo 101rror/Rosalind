@@ -1,4 +1,6 @@
 <h2><a href="https://rosalind.info/problems/dna/">Counting DNA Nucleotides</a></h2>
+<p>&nbsp;</p>
+<p><strong class="example">Problem</strong></p>
 
 <p>A <a href="https://rosalind.info/glossary/string/">string</a> is simply an ordered collection of symbols selected from some <a href="https://rosalind.info/glossary/alphabet/">alphabet</a> and formed into a word; the <a href="https://rosalind.info/glossary/string-length/">length</a> of a string is the number of symbols that it contains.</p>
 <p>An example of a length 21 <a href="https://rosalind.info/glossary/dna-string/">DNA string</a> (whose alphabet contains the symbols 'A', 'C', 'G', and 'T') is "ATGCTTCAGAAAGGTCTTACG".</p>
