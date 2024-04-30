@@ -10,9 +10,10 @@
 
 <p>When finding the <i>n</i>-th term of a sequence defined by a recurrence relation, we can simply use the recurrence relation to generate terms for progressively larger values of <i>n</i>. This problem introduces us to the computational technique of <a href="https://rosalind.info/glossary/dynamic-programming/">dynamic programming</a>, which successively builds up solutions by using the answers to smaller cases.</p>
 
+<ol>
 <p><strong>Given : </strong>Positive integers <strong><i>n ≤ 40 and k ≤ 5</i></strong>.</p>
 <p><strong>Return : </strong>The total number of rabbit pairs that will be present after <i>n</i> months, if we begin with 1 pair and in each generation, every pair of reproduction-age rabbits produces a litter of <i>k</i> rabbit pairs (instead of only 1 pair).</p>
-
+</ol>
 
 
 <p>&nbsp;</p>
