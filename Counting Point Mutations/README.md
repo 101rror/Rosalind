@@ -1,10 +1,20 @@
 <h2><a href="https://rosalind.info/problems/hamm/">Counting Point Mutations</a></h2>
 
-<p>Given two <a href="https://rosalind.info/glossary/string/">string</a> s and t of equal length, the <a href="https://rosalind.info/glossary/hamming-distance/"> Hamming distance </a> between s and t, denoted dH(s,t), is the number of corresponding symbols that differ in s and t. See <a href="https://rosalind.info/media/problems/hamm/Hamming_distance.png">Figure.</a></p>
+<p>&nbsp;</p>
+<p><strong class="example">Problem</strong></p>
 
-<p><strong>Given : </strong> Two <a href="https://rosalind.info/glossary/dna-string/">DNA string</a> s and t of equal length ( not exceeding 1 <a href="https://rosalind.info/glossary/kbp/">kbp</a> ).</p>
-<p><strong>Return : </strong> The Hamming distance dH(s,t).</p>
+<p>Given two <a href="https://rosalind.info/glossary/string/">string</a> <strong><i>s</i></strong> and <strong><i>t</i></strong> of equal length, the <a href="https://rosalind.info/glossary/hamming-distance/"> Hamming distance </a> between <strong><i>s</i></strong> and <strong><i>t</i></strong>, denoted <strong><i>d<sub>H</sub></i>(<i>s,t</i>)</strong>, is the number of corresponding symbols that differ in <strong><i>s</i></strong> and <strong><i>t</i></strong>. See <a href="https://rosalind.info/media/problems/hamm/Hamming_distance.png">Figure.</a></p>
 
+<ol>
+<figure>
+  <img src="https://rosalind.info/media/problems/hamm/Hamming_distance.png">
+  <figcaption>Figure : The Hamming distance between these two strings is 7.      
+  <br>Mismatched symbols are colored red.</figcaption>
+</figure>
+<p>&nbsp;</p>
+<p><strong>Given : </strong> Two <a href="https://rosalind.info/glossary/dna-string/">DNA string</a> <strong><i>s</i></strong> and <strong><i>t</i></strong> of equal length ( not exceeding 1 <a href="https://rosalind.info/glossary/kbp/">kbp</a> ).</p>
+<p><strong>Return : </strong> The Hamming distance <strong><i>d<sub>H</sub></i>(<i>s,t</i>)</strong>.</p>
+</ol>
 
 
 <p>&nbsp;</p>
