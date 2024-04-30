@@ -4,8 +4,10 @@
 <p>&nbsp;</p>
 <p><strong class="example">Problem</strong></p>
 
+<ol>
 <p><strong>Given : </strong>Two positive integers <i>a</i> and <i>b</i>, each less than 1000.</p>
 <p><strong>Return : </strong>The integer corresponding to the square of the hypotenuse of the right triangle whose legs have lengths <i>a</i> and <i>b</i>.</p>
+</ol>
 
 <p><strong class="example">Notes : </strong></p>
 <ol>
