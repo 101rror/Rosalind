@@ -5,8 +5,8 @@
 <p><strong class="example">Problem</strong></p>
 
 <ol>
-<p><strong>Given : </strong>Two positive integers <i>a</i> and <i>b</i>, each less than 1000.</p>
-<p><strong>Return : </strong>The integer corresponding to the square of the hypotenuse of the right triangle whose legs have lengths <i>a</i> and <i>b</i>.</p>
+<p><strong>Given : </strong>Two positive integers <strong><i>a</i></strong> and <strong><i>b</i></strong>, each less than 1000.</p>
+<p><strong>Return : </strong>The integer corresponding to the square of the hypotenuse of the right triangle whose legs have lengths <strong><i>a</i></strong> and <strong><i>b</i></strong>.</p>
 </ol>
 
 <p><strong class="example">Notes : </strong></p>
