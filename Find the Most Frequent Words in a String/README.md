@@ -9,7 +9,7 @@
 <p><i>Find</i> the most <i>frequent k-mers in a string</i>.</p>
 
 <ol>
-<p><strong>Given : </strong> A <a href="https://rosalind.info/glossary/dna-string/">DNA string</a> <i>Text</i> and an integer <i>k</i>.</p>
+<p><strong>Given : </strong> A <a href="https://rosalind.info/glossary/dna-string/">DNA string</a> <strong><i>Text</i></strong> and an integer <strong><i>k</i></strong>.</p>
 <p><strong>Return : </strong> All most frequent <i>k</i>-mers in <i>Text</i> (in any order).</p>
 </ol>
 
