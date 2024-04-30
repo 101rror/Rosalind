@@ -10,8 +10,8 @@
 <p><i>Find a position in a genome minimizing the skew.</i></p>
 
 <ol>
-<p><strong>Given : </strong> A DNA string Genome.</p>
-<p><strong>Return : </strong> All integer(s) i minimizing Skew(Prefixi (Text)) over all values of i (from 0 to |Genome|).</p>
+<p><strong>Given : </strong> A DNA string <i>Genome.</i></p>
+<p><strong>Return : </strong> All integer(s) <i>i</i> minimizing <i>Skew(Prefix<sub>i</sub> (Text))</i> over all values of <i>i</i> (from 0 to |<i>Genome</i>|).</p>
 </ol>
 
 
