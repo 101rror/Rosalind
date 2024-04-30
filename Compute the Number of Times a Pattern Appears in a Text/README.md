@@ -21,8 +21,10 @@
 
 <strong>Implement PatternCount</strong>
 
+<ol>
 <p><strong>Given : </strong>{DNA strings}} <i>Text</i> and <i>Pattern</i>.</p>
 <p><strong>Return : </strong><i>Count(Text, Pattern)</i>.</p>
+</ol>
 
 <p>&nbsp;</p>
 <p><strong class="example">Sample Dataset</strong></p>
