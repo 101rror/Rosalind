@@ -1,5 +1,8 @@
 <h2><a href="https://rosalind.info/problems/rna/">Transcribing DNA into RNA</a></h2>
 
+<p>&nbsp;</p>
+<p><strong class="example">Problem</strong></p>
+
 <p>An <a href="https://rosalind.info/glossary/rna-string/">RNA string</a> is a <a href="https://rosalind.info/glossary/string/">string</a> formed from the <a href="https://rosalind.info/glossary/alphabet/">alphabet</a> containing 'A', 'C', 'G', and 'U'.</p>
 
 <p>Given a <a href="https://rosalind.info/glossary/dna-string/">DNA string</a> <i>t</i> corresponding to a coding strand, its transcribed <a href="https://rosalind.info/glossary/rna-string/">RNA string</a> <i>u</i> is formed by replacing all occurrences of 'T' in <i>t</i> with 'U' in <i>u</i></i>.</p>
