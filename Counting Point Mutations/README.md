@@ -8,8 +8,8 @@
 <ol>
 <figure>
   <img src="https://rosalind.info/media/problems/hamm/Hamming_distance.png">
-  <figcaption>Figure : The Hamming distance between these two strings is 7.      
-  <br>Mismatched symbols are colored red.</figcaption>
+  <figcaption><br><i>Figure : The Hamming distance between these two strings is 7.      
+  <br>Mismatched symbols are colored red.</i></figcaption>
 </figure>
 <p>&nbsp;</p>
 <p><strong>Given : </strong> Two <a href="https://rosalind.info/glossary/dna-string/">DNA string</a> <strong><i>s</i></strong> and <strong><i>t</i></strong> of equal length ( not exceeding 1 <a href="https://rosalind.info/glossary/kbp/">kbp</a> ).</p>
