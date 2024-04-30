@@ -1,5 +1,8 @@
 <h2><a href="https://rosalind.info/problems/ba1a/">Compute the Number of Times a Pattern Appears in a Text</a></h2>
 
+<p>&nbsp;</p>
+<p><strong class="example"></strong></p>
+
 <p>This is the first problem in a collection of "code challenges" to accompany <a href="http://bioinformaticsalgorithms.org/"> Bioinformatics Algorithms: An Active-Learning Approach</a> by Phillip Compeau & Pavel Pevzner.</p>
 <p>A <a href="https://rosalind.info/glossary/k-mer/"> k-mer </a> is a <a href="https://rosalind.info/glossary/string/">string </a> of length <strong><i>k</i></strong>. We define <i>Count(Text, Pattern)</i> as the number of times that a <i>k-mer Pattern appears</i> as a <a href="https://rosalind.info/glossary/substring/">substring </a> of <i>Text</i>. For example,</p>
 <ol>
