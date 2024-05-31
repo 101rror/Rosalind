@@ -12,6 +12,8 @@
 
 <p>To compute <i>Count(Text, Pattern),</i> our plan is to “slide a window” down Text, checking whether each k-mer substring of <i>Text</i> matches <i>Pattern</i>. We will therefore refer to the <i>k</i>-mer starting at position <i>i</i> of Text as <i>Text(i, k)</i>. Throughout this book, we will often use <a href="https://rosalind.info/glossary/0-based-numbering/"> 0-based indexing, </a> meaning that we count starting at 0 instead of 1. In this case, Text begins at position 0 and ends at position <i>|Text|</i> − 1 (<i>|Text|</i> denotes the number of symbols in <i>Text</i>). For example, if <i>Text</i> = GACCATACTG, then <i>Text</i>(4, 3) = ATA. Note that the last <i>k</i>-mer of Text begins at position <i>|Text|</i> − k, e.g., the last 3-mer of GACCATACTG starts at position 10 − 3 = 7. This discussion results in the following pseudocode for computing <i>Count(Text, Pattern)</i>.</p>
 
+
+
 <pre>
 <strong>PatternCount(<i>Text, Pattern</i>)
     <i>count</i> ← 0
@@ -34,7 +36,7 @@
 <strong>GCGCG
 GCG</strong>
 </pre>
-<p><strong class="example">Sample Output</strong></p>
+<p><strong class="example"> Sample Output</strong></p>
 <pre>
 <strong>2</strong>
 </pre>
