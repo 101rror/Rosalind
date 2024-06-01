@@ -14,13 +14,12 @@
 <p><strong>Return : </strong> All integer(s) <i>i</i> minimizing <i>Skew(Prefix<sub>i</sub> (Text))</i> over all values of <i>i</i> (from 0 to |<i>Genome</i>|).</p>
 </ol>
 
-
 <p>&nbsp;</p>
 <p><strong class="example">Sample Dataset</strong></p>
 <pre>
 <strong>CCTATCGGTGGATTAGCATGTCCCTGTACGTTTCGCCGCGAACTAGTTCACACGGCTTGATGGCAAATGGTTTTTCCGGCGACCGTAATCGTCCACCGAG</strong>
 </pre>
-<p><strong class="example">Sample Output</strong></p>
+<p><strong class="example"> Sample Output</strong></p>
 <pre>
 <strong>53 97</strong>
 </pre>
