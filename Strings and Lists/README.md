@@ -7,7 +7,6 @@
 <p><strong>Given : </strong>A string <strong><i>s</i></strong> of length at most 200 letters and four integers <strong><i>a</i></strong>, <strong><i>b</i></strong>, <strong><i>c</i></strong> and <strong><i>d</i></strong>.</p>
 <p><strong>Return : </strong>The slice of this string from indices <strong><i>a</i></strong> through <strong><i>b</i></strong> and <strong><i>c</i></strong> through <strong><i>d</i></strong> (with space in between), inclusively. In other words, we should include elements <strong><i>s</i>[<i>b</i>]</strong> and <strong><i>s</i>[<i>d</i>]</strong> in our slice.</p>
 </ol>
-
 <p>&nbsp;</p>
 <p><strong class="example">Sample Dataset</strong></p>
 <pre>
